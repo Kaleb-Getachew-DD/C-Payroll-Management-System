@@ -103,4 +103,4 @@ This project is licensed under the MIT License.
 
 ---
 
-*Created by Computer Science students from Dire Dawa University, 2nd year*
+*Don't hesitate to contact me Kaleb.getachew@ddu.edu.et*
